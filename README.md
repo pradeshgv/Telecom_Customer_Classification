@@ -15,3 +15,15 @@ The target field, called **custcat**, has four possible values that correspond
 4- Total Service
 
 Dataset link is available in the notebook
+
+## Packages Used
+*   **Numpy**
+*   **Pandas**
+*   **Matplotlib**
+*   **Scikit-Learn**
+
+## How to Run
+1. Download the repository and store it in a folder
+2. Install all the used packages
+3. Open jupyter notebook and select the kernel where the packages are installed
+4. Run the code
